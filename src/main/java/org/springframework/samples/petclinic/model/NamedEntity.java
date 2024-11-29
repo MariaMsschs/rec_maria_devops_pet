@@ -35,7 +35,7 @@ public class NamedEntity extends BaseEntity {
 		return this.name;
 	}
 
-	public void setName(String name) {
+	public void setName(String namei) {
 		this.name = name;
 	}
 
